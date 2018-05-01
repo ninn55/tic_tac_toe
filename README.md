@@ -4,7 +4,7 @@
        src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png"
        width="80" height="15" alt="WTFPL" /></a>
 
-This is my attempt to make the tic-tac-toe game in python. And trying to find the perfect solution, i.e. not lose at all, by useing a deep learning framework similar to GAN, see also Reference 2.
+This is my attempt to make the tic-tac-toe game in python. And trying to find the perfect solution, i.e. not lose at all, by using a deep learning framework similar to GAN, see also Reference 2.
 
 ## Rules
 
@@ -17,3 +17,5 @@ The object of Tic Tac Toe is to get three in a row. You play on a three by three
 1. [Cyber Oculus web page](http://www.cyberoculus.com/tic-tac-toe.asp?Action=Rules)
 
 1. [[1406.2661] Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)
+
+1. [python - How to import .py file from another directory? - Stack Overflow](https://stackoverflow.com/questions/22955684/how-to-import-py-file-from-another-directory/22955743)
