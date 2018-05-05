@@ -5,7 +5,6 @@ tictactoe game for 2 players
 from blogpost: http://thebillington.co.uk/blog/posts/writing-a-tic-tac-toe-game-in-python by  BILLY REBECCHI,
 slightly improved by Horst JENS
 '''
-from __future__ import print_function
 
 choices = []
 
