@@ -1,8 +1,9 @@
 # tic_tac_toe
 
-<a href="http://www.wtfpl.net/"><img
+
+[![Build Status](https://travis-ci.com/ninn55/tic_tac_toe.svg?branch=master)](https://travis-ci.com/ninn55/tic_tac_toe)     <a href="http://www.wtfpl.net/"><img
        src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png"
-       width="80" height="15" alt="WTFPL" /></a>
+       width="80" height="19" alt="WTFPL" /></a>
 
 This is my attempt to make the tic-tac-toe game in python. And trying to find the perfect solution, i.e. not lose at all, by using a deep learning framework similar to GAN, see also Reference 2.
 
